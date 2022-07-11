@@ -29,7 +29,7 @@ function App() {
       <div className='row'>
         <div className='col d-flex justify-content-center mt-3'>
           <input type="text" onChange={e=>setsearch(e.target.value)} value=
-          {search} placeholder= 'Enter a number from 1 to 126'/>
+          {search} placeholder= 'Enter a number from 1 to 126'style={{ width: '14rem' }} />
           <button onClick={serch}>Search</button>
         </div>
       </div>
