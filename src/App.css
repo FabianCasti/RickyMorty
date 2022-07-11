@@ -1,0 +1,28 @@
+*{
+  background-color: rgb(206, 244, 255);
+}
+
+.banner{
+  background-image:  url(https://hbomax-images.warnermediacdn.com/images/GXkRjxwjR68PDwwEAABKJ/tileburnedin?size=1280x720&partner=hbomaxcom&v=1e5180db922e989abf8e4db3d85a3c76&host=art-gallery.api.hbo.com&language=es-419&w=1280);
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.colorv {
+  background-color: green;
+  position: absolute;
+  top: 5px;
+}
+
+.colorm {
+  background-color: red;
+  position: absolute;
+  top: 5px;
+}
+
+.colord {
+  background-color: gray;
+  position: absolute;
+  top: 5px;
+}
